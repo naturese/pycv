@@ -19,5 +19,8 @@ Code is divided in chapters reflecting the samples contained in the book. Feel f
 
 Github is the preferred way as it grants visibility to all issues reported.
 
+# Maachine learning
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.[1][2] It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.[3] Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
+
 ### Virtual Machine
 I (Joe Minichino) created a VM for VirtualBox which allows you to skip installation steps and jump straight into action. However, I am yet to find a free storage service where to upload the 12GB file to make it freely availalble. This is currently being addressed so check to this page constantly.
